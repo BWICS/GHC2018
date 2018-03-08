@@ -5,8 +5,13 @@
 Students who applied: 
 
 1. Beleicia Bullock  (ref: Laura)
-1. Anjulee Bhalla  (red: Laura)
-1. Zoe Aarons (ref: Laura)
-1. Mackenzie Schafer (ref: Laura)
-1. Emme McCabe (ref: Laura)
-1.  Bolor  Jagdagdorj (ref: ?)
+2. Anjulee Bhalla  (ref: Laura)
+3. Zoe Aarons (ref: Laura)
+4. Mackenzie Schafer (ref: Laura)
+5. Emme McCabe (ref: Laura)
+6. Bolor  Jagdagdorj (ref: ?)
+7. Devon Garcia (ref: ?)
+8. Diana Grandas (ref: ?)
+9. Pauline Unietis (ref: ?)
+10. Samantha Valdivia (ref: Chown)
+
