@@ -20,8 +20,11 @@ seniors
 
 juniors 
 5. Emme McCabe   (CS major, econ minor)
+
 6. Damini Singh  (CS & Math major) 
+
 7. Nelson Andrade (CS major)
+
 8. Pauline Unietis (CS major, English minor)
 
 sophomores 
@@ -34,6 +37,9 @@ sophomores
 15. Maria Perez-Mendova 
 16. Catherine NUnley 
 
+
+
+
 Notes: 
 we have separate additional funds specifically for funding sophomores. 
 Are we missing anyone who's potentially interested? 
@@ -43,19 +49,3 @@ Check in with Kamaal.
 
 
 
-
-
-
-Students who applied: 
-
-1. Beleicia Bullock  (junior; ref: Laura)
-2. Anjulee Bhalla  (junior; ref: Laura)
-3. Zoe Aarons (junior; ref: Laura)
-4. Mackenzie Schafer (junior; ref: Laura)
-5. Emme McCabe (sophomore; ref: Laura)
-6. Bolor  Jagdagdorj (junior; ref: ?)
-7. Devon Garcia (ref: ?)
-8. Diana Grandas (ref: ?)
-9. Pauline Unietis (ref: ?)
-10. Samantha Valdivia (junior; ref: Chown)
-11. Nelson Andrade (sophomore; ref: Sarah)
