@@ -1,7 +1,7 @@
 # GHC2018, September 26-28 (Wed-Fri) 2018, Houston, Texas 
 
 
-UPDATED JUNE 5
+//updated June 5th 
 
 GHC scolarships 
 *  Beleicia Bullock senior 
