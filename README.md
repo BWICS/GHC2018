@@ -13,29 +13,27 @@ GHC scolarships
 
 
 seniors 
-1. Anjulee Bhalla
-2. Mackenzie Schafer
-3. Bolor Jagdagdorj
-4. Sam Valdivia 
+*  Anjulee Bhalla
+*  Mackenzie Schafer
+*  Bolor Jagdagdorj
+*  Sam Valdivia 
 
-juniors 
-5. Emme McCabe   (CS major, econ minor)
-
-6. Damini Singh  (CS & Math major) 
-
-7. Nelson Andrade (CS major)
-
-8. Pauline Unietis (CS major, English minor)
+juniors
+*  Emme McCabe   (CS major, econ minor)
+*  Damini Singh  (CS & Math major) 
+*  Nelson Andrade (CS major)
+*  Pauline Unietis (CS major, English minor)
 
 sophomores 
-9. Vanessa Apira
-10. Anam Shah 
-11 Alina Lam 
-12. Devon Garcia 
-13. Nawapan Wattawanikhul (goes by Ploy) 
-14. Christine Chapman Sung 
-15. Maria Perez-Mendova 
-16. Catherine NUnley 
+
+*  Vanessa Apira
+*  Anam Shah 
+*  Alina Lam 
+*  Devon Garcia 
+*  Nawapan Wattawanikhul (goes by Ploy) 
+*  Christine Chapman Sung 
+*  Maria Perez-Mendova 
+*  Catherine NUnley 
 
 
 
