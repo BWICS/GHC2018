@@ -1,7 +1,7 @@
 # GHC2018, September 26-28 (Wed-Fri) 2018, Houston, Texas 
 
 
-//updated June 5th 
+//updated June 6th 
 
 GHC scolarships 
 *  Beleicia Bullock senior 
@@ -17,6 +17,7 @@ Seniors
 *  Mackenzie Schafer
 *  Bolor Jagdagdorj
 *  Sam Valdivia 
+*  Becca Vanneman 
 
 Juniors
 *  Emme McCabe   (CS major, econ minor)
