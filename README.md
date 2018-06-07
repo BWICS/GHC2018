@@ -6,7 +6,7 @@
 GHC scolarships 
 *  Beleicia Bullock senior 
 *  Zoe Aarons  senior 
-*  Diana Grandas sophomore, Physics & Math major, no minor) 
+*  Diana Grandas junior, Physics & Math major, no minor) 
 *  Nan Ding senior, major asian studies and math, CS minor 
 
 
