@@ -22,7 +22,6 @@ Seniors
 Juniors
 *  Emme McCabe   (CS major, econ minor)
 *  Damini Singh  (CS & Math major) 
-*  Nelson Andrade (CS major)
 *  Pauline Unietis (CS major, English minor)
 
 Sophomores 
