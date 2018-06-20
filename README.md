@@ -13,34 +13,32 @@ GHC scolarships
 
 
 Seniors 
-*  Anjulee Bhalla CONFIRMED
+*  Anjulee Bhalla ? 
 *  Mackenzie Schafer CONFIRMED
 *  Bolor Jagdagdorj CONFIRMED
-*  Sam Valdivia 
+*  Sam Valdivia ?
 *  Becca Vanneman  CONFIRMED
 
 Juniors
-*  Emme McCabe   (CS major, econ minor)
-*  Damini Singh  (CS & Math major) 
-*  Pauline Unietis (CS major, English minor)
+*  Emme McCabe   (CS major, econ minor)  she needs to check her tournament schedule 
+*  Damini Singh  (CS & Math major)  ? 
+*  Pauline Unietis (CS major, English minor) ? 
 
 Sophomores 
-*  Vanessa Apira
-*  Anam Shah 
-*  Alina Lam 
-*  Devon Garcia 
-*  Nawapan Wattawanikhul (goes by Ploy) 
-*  Christine Chapman Sung 
-*  Maria Perez-Mendova 
-*  Catherine NUnley 
-
-
+*  Devon Garcia  CONFIRMED
+*  Nawapan Wattawanikhul (goes by Ploy)  CONFIRMED
+*  Christine Chapman Sung  CONFIRMED
+*  Catherine NUnley  CONFIRMED
+*  Vanessa Apira ? 
+*  Anam Shah ? 
+*  Alina Lam ?
+*  Maria Perez-Mendova  ? 
 
 
 Notes: 
 we have separate additional funds specifically for funding sophomores. 
 Are we missing anyone who's potentially interested? 
-Check in with Kamaal. 
+I emailed Kamaal. 
 
 
 
