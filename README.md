@@ -1,7 +1,7 @@
 # GHC2018, September 26-28 (Wed-Fri) 2018, Houston, Texas 
 
 
-//updated June 19th 
+//updated June 20th 
 
 GHC scolarships 
 *  Beleicia Bullock senior 
@@ -13,11 +13,11 @@ GHC scolarships
 
 
 Seniors 
-*  Anjulee Bhalla ? 
+*  Becca Vanneman  CONFIRMED
 *  Mackenzie Schafer CONFIRMED
 *  Bolor Jagdagdorj CONFIRMED
 *  Sam Valdivia ?
-*  Becca Vanneman  CONFIRMED
+*  Anjulee Bhalla ? 
 
 Juniors
 *  Emme McCabe   (CS major, econ minor)  she needs to check her tournament schedule 
@@ -29,9 +29,9 @@ Sophomores
 *  Nawapan Wattawanikhul (goes by Ploy)  CONFIRMED
 *  Christine Chapman Sung  CONFIRMED
 *  Catherine NUnley  CONFIRMED
+*  Alina Lam  CONFIRMED
 *  Vanessa Apira ? 
 *  Anam Shah ? 
-*  Alina Lam ?
 *  Maria Perez-Mendova  ? 
 
 
