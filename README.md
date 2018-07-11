@@ -17,7 +17,8 @@ Seniors
 *  Mackenzie Schafer CONFIRMED
 *  Bolor Jagdagdorj CONFIRMED
 *  Sam Valdivia ?
-*  Anjulee Bhalla ? 
+*  Anjulee Bhalla CONFIRMED
+
 
 Juniors
 *  Emme McCabe   (CS major, econ minor)  she needs to check her tournament schedule 
